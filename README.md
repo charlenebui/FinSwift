@@ -68,9 +68,9 @@ The tool will generate:
 
 ## Future Improvements
 - Add more financial ratios and metrics
+- Add current year metrics
 - Implement industry benchmarking
 - Enable custom date ranges
 - Add export functionality for reports
 
-## License
-[Your License Here]
+
